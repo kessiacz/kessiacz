@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-kessiac147@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kessiac147@gmail.com "Connect via Email")
 ![Profile Views](https://komarev.com/ghpvc/?username=kessiacarvalho&color=blue)
 
-### Hi 👋 
-Opa, sou Kessia! Técnica em Informática pelo IFPB - Campus Cajazeiras. Sei um pouco de python e atualmente estou adquirindo alguns conhecimentos de desenvolvimento web.
+### Opa, sou Kessia! 👋 
+Técnica em Informática pelo IFPB - Campus Cajazeiras. Sei um pouco de python e atualmente estou adquirindo alguns conhecimentos de desenvolvimento web.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=kessiacarvalho&show_icons=true&theme=radical&line_height=33">
