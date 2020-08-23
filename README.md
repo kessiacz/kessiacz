@@ -20,13 +20,15 @@
   </a>
 </h2>
 
+<a>
 <img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'">
+</a>
+
+<img aling="center" src="https://github-readme-stats.vercel.app/api?username=kessiac&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" width="300" />
 
 <a href="https://github.com/kessiac">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiac&theme=tokyonight&hide=glsl,python" width="300" />
 </a>
-
-<img aling="center" src="https://github-readme-stats.vercel.app/api?username=kessiac&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" width="300" />
 
 ### Languages and Tools :computer:
 
