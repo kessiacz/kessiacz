@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <center>
   <h2>
@@ -29,12 +29,12 @@
   Sei um pouco de python e atualmente <br> estou adquirindo conhecimentos <br> em desenvolvimento web.
 </p>
 
-### Status do GitHub
+### Status do GitHub <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png" width="24" height="24"/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=kessiac&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" width="300" />
   
   
-### Languages and Tools :computer:
+### Linguagens e Ferramentas :computer:
   
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/kessiac)](https://github.com/kessiac) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/kessiac)](https://github.com/kessiac) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/kessiac)](https://github.com/kessiac) 
 
