@@ -25,7 +25,7 @@
 
 
 <p>
-  Hey, sou Kessia! 👋
+  **Hey, sou Kessia!** 👋
   <br>
   Sei um pouco de python e atualmente <br> estou adquirindo conhecimentos <br> em desenvolvimento web.
 </p>
