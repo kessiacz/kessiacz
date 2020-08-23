@@ -19,8 +19,6 @@
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Spotify_black.png" width="32" height="32"/>
   </a>
 </h2>
-  
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### Languages and Tools :computer:
 
@@ -28,9 +26,12 @@
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/kessiac)](https://github.com/kessiac) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/hritik5102)](https://github.com/kessiac) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/kessiac)](https://github.com/kessiac)
 
-<img aling="right" src="https://github-readme-stats.vercel.app/api?username=kessiac&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" width="400" />
+<img aling="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+<img aling="center" src="https://github-readme-stats.vercel.app/api?username=kessiac&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" width="300" />
+
 <a href="https://github.com/kessiac">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiac&theme=tokyonight&hide=glsl,python" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiac&theme=tokyonight&hide=glsl,python" width="300" />
 </a>
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
