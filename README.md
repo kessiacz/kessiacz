@@ -7,7 +7,7 @@
 ### Opa, sou Kessia! 👋 
 Técnica em Informática pelo IFPB - Campus Cajazeiras. Sei um pouco de python e atualmente estou adquirindo alguns conhecimentos de desenvolvimento web.
 
-<p align = "center">
+<p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=kessiac&show_icons=true&theme=radical&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kessiac&hide_langs_below=.25&theme=radical">
 </p>
