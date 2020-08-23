@@ -3,7 +3,7 @@
   <img width="322px" align="left" src="https://github-readme-stats.vercel.app/api?username=kessiac&theme=default" /></td>
 </p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ### Opa, sou Kessia!
 Técnica em Informática pelo IFPB - Campus Cajazeiras. Sei um pouco de python e atualmente estou adquirindo alguns conhecimentos de desenvolvimento web.
