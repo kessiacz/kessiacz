@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/kessia-carvalho">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
     </a>
-    <a href="https://www.facebook.com/KessiaCarvalho">
+    <a href="https://www.facebook.com/profile.php?id=100016421957435">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png" width="32" height="32"/>
     </a>
     <a href="https://www.instagram.com/kessiac_">
