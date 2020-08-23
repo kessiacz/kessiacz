@@ -22,16 +22,6 @@
   </h2>
 </center>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-<br><br><br><br><br><br><br><br>
-
-<p align='right'>
-  Hey, sou Kessia! 👋
-  <br>
-  Sei um pouco de python e <br> atualmente estou buscando <br> adquirir conhecimentos em <br> desenvolvimento web.
-</p>
-
 ### Languages and Tools :computer:
 <center>
   
@@ -44,6 +34,16 @@
   <a href="https://github.com/kessiac">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiac&theme=tokyonight&hide=glsl,python" width="300" />
   </a>
-
-  ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </center>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+<br><br><br><br><br><br><br><br>
+
+<p align='right'>
+  Hey, sou Kessia! 👋
+  <br>
+  Sei um pouco de python e <br> atualmente estou buscando <br> adquirir conhecimentos em <br> desenvolvimento web.
+</p>
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
