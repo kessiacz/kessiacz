@@ -20,22 +20,17 @@
   </a>
 </h2>
   
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 ### Languages and Tools :computer:
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/kessiac) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/kessiac)](https://github.com/kessiac) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/kessiac)](https://github.com/kessiac) 
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/kessiac)](https://github.com/kessiac) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/hritik5102)](https://github.com/kessiac) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/kessiac)](https://github.com/kessiac)
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-<a href="https://github.com/kessiac/Covid-19-Data-Analysis">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kessiac&repo=Covid-19-Data-Analysis&theme=tokyonight" />
-</a> 
-
-<img aling="center" src="https://github-readme-stats.vercel.app/api?username=kessiac&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" width="400" />
+<img aling="right" src="https://github-readme-stats.vercel.app/api?username=kessiac&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" width="400" />
 <a href="https://github.com/kessiac">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiac&theme=tokyonight&hide=glsl,python" width="400" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiac&theme=tokyonight&hide=glsl,python" width="400" />
 </a>
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
