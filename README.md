@@ -2,17 +2,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/kessiac_/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/kessiac_)
 [![Gmail Badge](https://img.shields.io/badge/-kessiac147@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kessiac147@gmail.com "Connect via Email")
-![Profile Views](https://komarev.com/ghpvc/?username=kessiacarvalho&color=blue)
   
-<center>
-  <table>
-    <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiac&hide=html&layout=compact" /></td>
-      <td><img width="322px" align="left" src="https://github-readme-stats.vercel.app/api?username=kessiac&theme=default" /></td>
-    </tr>   
-  </table>
-</center>
+<p align="center">
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiac&hide=html&layout=compact" /></td>
+  <img width="322px" align="left" src="https://github-readme-stats.vercel.app/api?username=kessiac&theme=default" /></td>
+</p>
 
+<br><br><br><br><br><br>
 
 ### Opa, sou Kessia!
 Técnica em Informática pelo IFPB - Campus Cajazeiras. Sei um pouco de python e atualmente estou adquirindo alguns conhecimentos de desenvolvimento web.
