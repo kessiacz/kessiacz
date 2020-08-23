@@ -1,24 +1,45 @@
-<p align="center">
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiac&hide=html&layout=compact" /></td>
-  <img width="322px" align="left" src="https://github-readme-stats.vercel.app/api?username=kessiac&theme=default" /></td>
-</p>
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<br><br><br><br><br><br>
+<h2>
+  <a href="https://twitter.com/spellboundb">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kessia-carvalho">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
+  </a>
+  <a href="https://www.facebook.com/KessiaCarvalho">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png" width="32" height="32"/>
+  </a>
+  <a href="https://www.instagram.com/kessiac_">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
+  <a href="mailto:kessiac147@gmail.com">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
+  </a>
+  <a href="https://open.spotify.com/user/kessiac_">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Spotify_black.png" width="32" height="32"/>
+  </a>
+</h2>
 
-### Opa, sou Kessia!
-Técnica em Informática pelo IFPB - Campus Cajazeiras. Sei um pouco de python e atualmente estou adquirindo alguns conhecimentos de desenvolvimento web.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<br>
+<a href="https://github.com/kessiac">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kessiac&theme=tokyonight&hide=glsl,python" />
+</a>
 
-<p align="center">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="125"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="125"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="125"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="125"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="125"/> 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=kessiac&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 
-<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kessia%20Carvalho-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kessia-carvalho/ "Connect on LinkedIn")
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/kessiac_/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/kessiac_)
-[![Gmail Badge](https://img.shields.io/badge/-kessiac147@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kessiac147@gmail.com "Connect via Email")
+<a href="https://github.com/kessiac/Covid-19-Data-Analysis">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=tokyonight" />
+</a>
 
-<br>
+### Languages and Tools :computer:
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/kessiac)](https://github.com/kessiac) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/kessiac)](https://github.com/kessiac) 
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/kessiac) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/kessiac)](https://github.com/kessiac)
+
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/hritik5102)](https://github.com/kessiac) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/kessiac)](https://github.com/kessiac)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/kessiac)](https://github.com/kessiac)
