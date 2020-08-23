@@ -28,7 +28,6 @@
   Hey, sou Kessia! 👋
 </h4>
 <p>
-  <br>
   Sei um pouco de python e atualmente <br> estou adquirindo conhecimentos <br> em desenvolvimento web.
 </p>
 
