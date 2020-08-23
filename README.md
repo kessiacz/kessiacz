@@ -39,15 +39,6 @@
 
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/kessiac)](https://github.com/kessiac) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/kessiac)](https://github.com/kessiac) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/kessiac)](https://github.com/kessiac)
   
-</center>
-
-<p align='right'>
-  Hey, sou Kessia! 👋
-  <br>
-  Sei um pouco de python e <br> atualmente estou adquirindo <br> conhecimentos em desenvolvimento web
-</p>
-
-<center>
   <img aling="center" src="https://github-readme-stats.vercel.app/api?username=kessiac&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" width="300" />
 
   <a href="https://github.com/kessiac">
