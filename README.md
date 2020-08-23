@@ -1,4 +1,4 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World!
 
 <center>
   <h2>
@@ -29,7 +29,7 @@
   Sei um pouco de python e atualmente <br> estou adquirindo conhecimentos <br> em desenvolvimento web.
 </p>
 
-### Status do GitHub <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png" width="24" height="24"/>
+### Status do GitHub 🏆
   
   <img src="https://github-readme-stats.vercel.app/api?username=kessiac&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" width="300" />
   
