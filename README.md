@@ -2,22 +2,22 @@
 
 <center>
   <h2> 
-    <a href="https://twitter.com/spellboundb" target="_blank">
+    <a window.open("https://twitter.com/spellboundb" target="_blank")>
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
     </a>
-    <a href="https://www.linkedin.com/in/kessia-carvalho" target="_blank">
+    <a window.open("https://www.linkedin.com/in/kessia-carvalho" target="_blank")>
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100016421957435" target="_blank">
+    <a window.open("https://www.facebook.com/profile.php?id=100016421957435" target="_blank")>
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png" width="32" height="32"/>
     </a>
-    <a href="https://www.instagram.com/kessiac_" target="_blank">
+    <a window.open("https://www.instagram.com/kessiac_" target="_blank")>
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
     </a>
-    <a href="mailto:kessiac147@gmail.com" target="_blank">
+    <a window.open("mailto:kessiac147@gmail.com" target="_blank")>
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
     </a>
-    <a href="https://open.spotify.com/user/kessiac_" target="_blank">
+    <a window.open("https://open.spotify.com/user/kessiac_" target="_blank")>
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Spotify_black.png" width="32" height="32"/>
     </a>
   </h2>
