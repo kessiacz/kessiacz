@@ -16,7 +16,7 @@
     <\a>
     <a href="mailto:kessiac147@gmail.com" target="_blank">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
-    </a>
+    <\a>
     <a href="https://open.spotify.com/user/kessiac_" target="_blank">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Spotify_black.png" width="32" height="32"/>
     </a>
