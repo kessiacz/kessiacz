@@ -2,7 +2,7 @@
 
 <center>
   <h2> 
-    <a window.open("https://twitter.com/spellboundb" target="_blank")>
+    <a window.open("https://twitter.com/spellboundb")>
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
     </a>
     <a window.open("https://www.linkedin.com/in/kessia-carvalho" target="_blank")>
