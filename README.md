@@ -2,7 +2,7 @@
 
 <center>
   <h2> 
-    <a href="https://twitter.com/spellboundb" target="_blank">
+    <a href="https://twitter.com/kessiacz" target="_blank">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
     </a>
     <a href="https://linkedin.com/in/kessia-carvalho" target="_blank">
@@ -11,7 +11,7 @@
     <a href="https://www.facebook.com/profile.php?id=100016421957435" target="_blank">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png" width="32" height="32"/>
     </a>
-    <a href="https://www.instagram.com/kessiac_" target="_blank">
+    <a href="https://www.instagram.com/kessiacz" target="_blank">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
     </a>
     <a href="mailto:kessiac147@gmail.com" target="_blank">
@@ -33,7 +33,7 @@
 
 ### Status do GitHub 🏆
   
-  <img src="https://github-readme-stats.vercel.app/api?username=kessiac&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kessiacz&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" width="300" />
   
   
 ### Linguagens e Ferramentas :computer:
