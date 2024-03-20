@@ -28,7 +28,7 @@
 
 ### Hey, sou Kessia! 👋
 <p>
-  Sei um pouco de python, html5, <br> css, js, sqlite3 etc<br>.
+  Sei um pouco de python, html5, <br> css, js, sqlite3 etc<br>
 </p>
 
 ### Status do GitHub 🏆
