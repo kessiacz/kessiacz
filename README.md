@@ -26,10 +26,7 @@
 <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-### Hey, sou Kessia! 👋
-<p>
-  Sei um pouco de python, html5, <br> css, js, sqlite3 etc<br>
-</p>
+### Kessia Carvalho! 👋
 
 ### Status do GitHub 🏆
   
