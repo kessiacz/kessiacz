@@ -27,11 +27,6 @@
 
 
 ### Kessia Carvalho! 👋
-
-### Status do GitHub 🏆
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=kessiacz&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ashwani's GitHub Stats" width="300" />
-  
   
 ### Linguagens e Ferramentas :computer:
   
