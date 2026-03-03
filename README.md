@@ -2,14 +2,8 @@
 
 <center>
   <h2> 
-    <a href="https://twitter.com/kessiacz" target="_blank">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
-    </a>
     <a href="https://linkedin.com/in/kessia-carvalho" target="_blank">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100016421957435" target="_blank">
-      <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png" width="32" height="32"/>
     </a>
     <a href="https://www.instagram.com/kessiacz" target="_blank">
       <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
